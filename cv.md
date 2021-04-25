@@ -1,5 +1,6 @@
 # Junior Developer CV
 1. **Name:**  Aliaksei Anishchanka
+![This is my photo](https://media-exp1.licdn.com/dms/image/C5603AQGAGYg-wlrEpA/profile-displayphoto-shrink_800_800/0/1618871347787?e=1625097600&v=beta&t=RaMftcyIC27qMn1KP9A5qRSv382Vh9JDgZYzkf_F4Ck)
 2. **Contact:**
 
 | Way      | Source |
