@@ -38,9 +38,8 @@
                             if possible_connections == 0:
                                 return
 ```
-6. Code examples can be observed on [my github page](https://github.com/amsuredev)
+6. Source code of my projects can be observed on [my github page](https://github.com/amsuredev)
 7. Education: Wroclaw University of Computer Science And Technology 2018 - present
 8. Languages:
-
 * English: I have passed one-year cource of english B2 in my university last year.
 * Polish: C1 
